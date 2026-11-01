@@ -1,1 +1,1 @@
-# claude-workstation
+# Botovod Workstation
